@@ -9,7 +9,6 @@ public class GameGUI extends JFrame implements ActionListener {
     private JButton startButton, settingsButton, helpButton, exitButton, aboutButton;
     private JLabel titleLabel;
     private JPanel mainMenuPanel, settingsPanel, helpPanel, aboutPanel;
-    private JDialog exitDialog;
     
     private GameModes modesPanel; 
     private CharacterSelector selectorPanel; 
