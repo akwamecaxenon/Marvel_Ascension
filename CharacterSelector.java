@@ -120,6 +120,9 @@ public class CharacterSelector extends JPanel {
         // Secret Unlocks
         heroDataMap.put(7355608, new CharacterData("Thanos", 500, 200, new String[]{"The Mad Titan."}));
         heroDataMap.put(69, new CharacterData("Jan Clark", 120, 15, new String[]{"The developer's ultimate hero."}));
+        heroDataMap.put(420, new CharacterData("Reuben", 120, 15, new String[]{"The artist's ultimate hero."}));
+        heroDataMap.put(1337, new CharacterData("Justine", 120, 15, new String[]{"The writer's ultimate hero."}));
+        
        /* Add Other secret characters, like Micoh, Jaffe, & Justine*/
     }
 
