@@ -2,6 +2,9 @@ import javax.swing.*;
 import java.awt.*;
 
 public class Boot {
+
+    //Boot-up sequence with terminal flair and GUI initialization yesserskiiiiiiiiii//
+
     // Reference to the GUI
     private GameGUI gameGUI;
 
